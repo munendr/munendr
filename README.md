@@ -1,6 +1,4 @@
 I work with machine and deep learning algorithms
-
-* ✉️  You can contact me at [munendrasingh0572@gmail.com](mailto:munendrasingh0572@gmail.com)
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
